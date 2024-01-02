@@ -22,3 +22,9 @@ npm -g @nestjs/cli
 ```
 docker-compose up -d
 ```
+
+5. Recargar o reconstruir la base de datos usando el endpoint /seed
+
+```
+/seed
+```
